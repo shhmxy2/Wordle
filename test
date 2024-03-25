@@ -1,0 +1,17 @@
+{
+  "total_rounds": 1,
+  "games": [
+    {
+      "answer": "",
+      "guesses": []
+    },
+    {
+      "answer": "WORLD",
+      "guesses": [
+        "BREAK",
+        "BUILD",
+        "WORLD"
+      ]
+    }
+  ]
+}
